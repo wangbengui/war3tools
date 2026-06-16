@@ -2,3 +2,20 @@
 .idea/
 .vscode/
 *.log
+__pycache__/
+*.pyc
+*.rar
+
+# 小偷进化工具：地图 MPQ 体积过大，可用 scripts/analyze_map.py 重新生成
+tools/xiaotou-jinhua/analysis/*.mpq
+
+# PyInstaller 构建缓存
+tools/xiaotou-jinhua/trainer/build/
+
+# 解包大体积资源（保留 txt/json/lua 等小文件）
+tools/xiaotou-jinhua/extracted/fonts.ttf
+tools/xiaotou-jinhua/extracted/war3map.shd
+tools/xiaotou-jinhua/extracted/war3map.wpm
+tools/xiaotou-jinhua/extracted/war3map.w3e
+tools/xiaotou-jinhua/extracted/war3mapMap.blp
+tools/xiaotou-jinhua/extracted/war3map.doo

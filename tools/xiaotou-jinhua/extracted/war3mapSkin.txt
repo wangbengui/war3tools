@@ -1,0 +1,10 @@
+[CustomSkin]
+ChatFont=fonts.ttf
+EscMenuTextFont=fonts.ttf
+GoldIcon=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
+InfoPanelTextFont=fonts.ttf
+LumberIcon=ReplaceableTextures\CommandButtons\BTNBundleOfLumber.blp
+MasterFont=fonts.ttf
+MessageFont=fonts.ttf
+SupplyIcon=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
+TextTagFont=fonts.ttf

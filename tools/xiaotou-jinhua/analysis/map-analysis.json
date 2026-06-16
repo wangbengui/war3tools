@@ -1,0 +1,237 @@
+{
+  "map_path": "D:\\GAME\\Warcraft III Frozen Throne\\Maps\\dz\\rpg\\小偷进化修改版\\781DD85B990F8829A6E9758F58EFCA5B.w3x",
+  "map_name_in_header": "小偷进化",
+  "file_size": 98263746,
+  "mpq_offset": 512,
+  "mpq_size": 98263234,
+  "block_count": 1569,
+  "hash_count": 2048,
+  "known_files": [
+    {
+      "name": "war3map.j",
+      "present": true,
+      "size": 116,
+      "archived_size": 121,
+      "flags": "0x80010200"
+    },
+    {
+      "name": "war3map.lua",
+      "present": false
+    },
+    {
+      "name": "main.lua",
+      "present": true,
+      "size": 4841,
+      "archived_size": 1768,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.w3i",
+      "present": true,
+      "size": 607,
+      "archived_size": 301,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.w3u",
+      "present": true,
+      "size": 2136,
+      "archived_size": 527,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.w3a",
+      "present": true,
+      "size": 72,
+      "archived_size": 58,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.w3t",
+      "present": false
+    },
+    {
+      "name": "war3map.w3b",
+      "present": false
+    },
+    {
+      "name": "war3map.w3d",
+      "present": false
+    },
+    {
+      "name": "war3map.w3h",
+      "present": false
+    },
+    {
+      "name": "war3map.w3q",
+      "present": false
+    },
+    {
+      "name": "war3map.w3e",
+      "present": true,
+      "size": 181540,
+      "archived_size": 29316,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.w3r",
+      "present": false
+    },
+    {
+      "name": "war3map.w3c",
+      "present": false
+    },
+    {
+      "name": "war3map.w3s",
+      "present": false
+    },
+    {
+      "name": "war3map.doo",
+      "present": true,
+      "size": 20074,
+      "archived_size": 5797,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.wpm",
+      "present": true,
+      "size": 409616,
+      "archived_size": 2852,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.shd",
+      "present": true,
+      "size": 409600,
+      "archived_size": 582,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3map.mmp",
+      "present": true,
+      "size": 136,
+      "archived_size": 96,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3mapExtra.txt",
+      "present": true,
+      "size": 43,
+      "archived_size": 51,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3mapMisc.txt",
+      "present": true,
+      "size": 1865,
+      "archived_size": 811,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3mapSkin.txt",
+      "present": true,
+      "size": 358,
+      "archived_size": 187,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "war3mapMap.blp",
+      "present": true,
+      "size": 11930,
+      "archived_size": 10789,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "fonts.ttf",
+      "present": true,
+      "size": 4870616,
+      "archived_size": 2445056,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "Fonts.ttf",
+      "present": true,
+      "size": 4870616,
+      "archived_size": 2445056,
+      "flags": "0x80000200"
+    },
+    {
+      "name": "(listfile)",
+      "present": false
+    },
+    {
+      "name": "(attributes)",
+      "present": false
+    }
+  ],
+  "block_signatures": {
+    "08000000": 1220,
+    "10000000": 147,
+    "0c000000": 66,
+    "14000000": 22,
+    "24000000": 15,
+    "18000000": 13,
+    "28000000": 10,
+    "20000000": 9,
+    "2c000000": 7,
+    "1c000000": 6,
+    "30010000": 2,
+    "b0000000": 2,
+    "5c000000": 2,
+    "38000000": 1,
+    "80000000": 1,
+    "a0000000": 1,
+    "48000000": 1,
+    "5c010000": 1,
+    "30000000": 1,
+    "58000000": 1
+  },
+  "units": [
+    {
+      "id": "\u0000\u0000\u0000u",
+      "fields": {
+        "bpy\u0000": 0,
+        "\u0000\u0000\u0000u": "<type57962344>"
+      }
+    },
+    {
+      "id": "\u0000ulf",
+      "fields": {
+        "i\u0000\u0000\u0000": 0,
+        "\u0000ulf": "<type111>"
+      }
+    },
+    {
+      "id": "\u0000uma",
+      "fields": {
+        "1\u0002\u0000\u0000": "<type429496832>",
+        "\u0000uma": "<type562>"
+      }
+    },
+    {
+      "id": "\u0000ua1",
+      "fields": {
+        "m\u0003\u0000\u0000": "<type1768046848>",
+        "es\\W": "<type1869635941>",
+        "rago": "<type2002864238>",
+        "sile": "<type1634878556>",
+        "awkM": "<type1769173865>",
+        "dl\u0000\u0000": "<type1962934272>",
+        "\u0000\u0000\u0000\u0001": 1962934272,
+        "mh2\u0000": 0,
+        "\u0000\u0000\u0000u": "<type8008033>",
+        "\u0004\u0000\u0000\u0000": "<type1962934272>"
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "id": "\u0002\u0000\u0000\u0000",
+      "fields": {
+        "Oae1": 0.0,
+        "\u0001\u0000\u0000\u0000": "<type3197737370>"
+      }
+    }
+  ],
+  "misc_text": "[FontHeights]\nLeaderBoard=0.011\nPortraitStats=0.0001\n[HERO]\nDependencyOr=Hamg,Hblm,Hmkg,Hpal,Obla,Ofar,Oshd,Otch,Edem,Ekee,Emoo,Ewar,Ucrl,Udea,Udre,Ulic,Npbm,Nbrn,Nngs,Nplh,Nbst\nName=一个英雄\n[Misc]\nAgiAttackSpeedBonus=0\nAgiDefenseBase=0\nAgiDefenseBonus=0\nBoneDecayTime=0.1\nBulletDeathTime=0.01\nCancelTime=1\nChanceToMiss=0\nDamageBonusHero=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDamageBonusMagic=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDamageBonusNormal=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDamageBonusPierce=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDamageBonusSiege=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDamageBonusSpells=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nDecayTime=0.1\nDefenseArmor=0\nDisplayBuildingStatus=1\nDissipateTime=0.1\nDropItemRange=9999\nEffectDeathTime=1\nEtherealDamageBonus=1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00\nFogFlashTime=1\nGiveItemRange=9999\nGrantHeroXP=0\nGrantHeroXPFormulaA=0\nGrantHeroXPFormulaC=0\nGrantNormalXP=0\nGrantNormalXPFormulaA=0\nGrantNormalXPFormulaB=0\nGrantNormalXPFormulaC=0\nGuardDistance=2000\nGuardReturnTime=999\nHeroFactorXP=0\nIntManaBonus=0\nIntRegenBonus=0\nMaxBldgSpeed=522\nMaxGuardDistance=2000\nMaxHeroLevel=88888888\nMaxUnitSpeed=522\nMinBldgSpeed=0\nMinUnitSpeed=0\nMissDamageReduction=0\nPawnItemRange=9999\nPawnItemRate=1\nPickupItemRange=9999\nReactionDelay=0\nStrAttackBonus=0\nStrHitPointBonus=0\nStrRegenBonus=0\nStructureDecayTime=1\nSummonedKillFactor=0\n[TALT]\nDependencyOr=halt,oalt,eate,uaod\nName=一个祭坛\n[TWN1]\nDependencyOr=htow,ogre,etol,unpl\nName=城镇大厅或者大厅或者生命之树或者大墓地\nXPFactor=0\n[TWN2]\nDependencyOr=hkee,ostr,etoa,unp1\nName=主城或者要塞或者远古之树或者亡者大厅\nXPFactor=0\n[TWN3]\nDependencyOr=hcas,ofrt,etoe,unp2\nName=城堡或者堡垒或者永恒之树或者黑色城堡\nXPFactor=0\n"
+}
